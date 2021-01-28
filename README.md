@@ -1,1 +1,1 @@
-## Bienvenidas. Bienvenidos. Este es el laboratorio de recursos didácticos que hemos creado para aquellas personas inquietas acerca del sonido y del sonido creado con tecnología. 
+## Bienvenides al curso de electrosonidos de la Escuela de Oficios Electrosonoros. En este portal queremos ofrecer una introducción a la creación sonora con tecnología. 

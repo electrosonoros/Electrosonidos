@@ -2,7 +2,7 @@
 
 ## 0. Primeros pasos.
 - **0.1** [A qué llamamos electrosonidos](/0_primeros_pasos/01_a_que_llamamos_electrosonidos.md).
-- 0.2 Lo que necesitas para realizar este curso.
+- **0.2** [Lo que necesitas para realizar este curso.](/0_primeros_pasos/02_lo_que_necesitas_para_realizar_este_curso.md)
 - 0.3 Aprender a escuchar.
 
 ## 1. Un poco de historia.

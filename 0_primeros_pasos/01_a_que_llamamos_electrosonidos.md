@@ -11,6 +11,8 @@ Con la llegada de la electricidad, llegaron también nuevas posibilidades para l
 
 En la [Escuela de Oficios Electrosonoros](oficioselectrosonoros.org) llamamos _electrosonidos_ a todo tipo de sonidos creados con medios electrónicos o tecnológicos. Nos inventamos esta palabra porque no queríamos relacionar los sonidos con el estilo musical determinado como puede ocurrir cuando se habla de [música electrónica](https://es.wikipedia.org/wiki/M%C3%BAsica_electr%C3%B3nica), [música electroacústica](https://es.wikipedia.org/wiki/M%C3%BAsica_electroac%C3%BAstica), o [música experimental](https://es.wikipedia.org/wiki/M%C3%BAsica_experimental). Nos interesa explorar la creación de hermosos sonidos con medios electrónicos o tecnológicos.
 
-Este curso está dedicado a explorar las formas de creación de electrosonidos, y esperamos que te guste.
+Como ejemplo, proponemos la escucha de la obra _Música de las esferas_ de la compositora Johannes Beyer, del año 1938. Se trata de una de las primeras composiciones realizada con medios electrónicos de las que se tiene constancia.
 
-<iframe width="165" height="315" src="https://www.youtube.com/embed/_REVFN7A6_4" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="315" height="635" src="https://www.youtube.com/embed/_REVFN7A6_4" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Este curso está dedicado a explorar las formas de creación de electrosonidos, y esperamos que te guste.

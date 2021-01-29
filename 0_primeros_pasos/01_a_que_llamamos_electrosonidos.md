@@ -13,3 +13,4 @@ En la [Escuela de Oficios Electrosonoros](oficioselectrosonoros.org) llamamos _e
 
 Este curso está dedicado a explorar las formas de creación de electrosonidos, y esperamos que te guste.
 
+<iframe width="165" height="315" src="https://www.youtube.com/embed/_REVFN7A6_4" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

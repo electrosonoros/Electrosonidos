@@ -12,6 +12,6 @@ En la [Escuela de Oficios Electrosonoros](oficioselectrosonoros.org) llamamos _e
 
 Como ejemplo, proponemos la escucha de la obra _Música de las esferas_ de la compositora Johannes Beyer, del año 1938. Se trata de una de las primeras composiciones realizada con medios electrónicos de las que se tiene constancia.
 
-<iframe width="635" height="315" src="https://www.youtube.com/embed/_REVFN7A6_4" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="635" height="115" src="https://www.youtube.com/embed/_REVFN7A6_4" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Este curso está dedicado a explorar las formas de creación de electrosonidos, y esperamos que te guste.

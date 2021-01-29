@@ -2,7 +2,8 @@
 
 Desde principios del siglo XX, la música ha ido experimentando muchos cambios apasionantes. Pero no solo en el siglo XX, sino que ya desde [la prehistoria](https://es.wikipedia.org/wiki/M%C3%BAsica_en_la_Prehistoria), las personas que han sentido la necesidad de inventar música, han ido explorando diferentes formas de generar sonido. Todos los instrumentos que conoces, son el resultado de una evolución técnica que ha requerido de varios cientos de años hasta llegar a tener la forma que tienen ahora. 
 
-![LaHistoriaDelPiano](https://gloriavaldez.files.wordpress.com/2014/10/img_0757-1.jpg)[*Evolución del Piano - Gloria Valdez*](https://gloriavaldez.wordpress.com/2014/10/14/evolucion-del-piano/)
+![LaHistoriaDelPiano](https://gloriavaldez.files.wordpress.com/2014/10/img_0757-1.jpg)
+[Evolución del Piano - Gloria Valdez](https://gloriavaldez.wordpress.com/2014/10/14/evolucion-del-piano/)
 
 Con cada cambio en los instrumentos, con cada desarrollo, se abren nuevas posibilidades para la exploración sonora. Los diferentes materiales (por ejemplo: madera, metal, cuero, papel) o la forma de tocarlos (por ejemplo: soplar, percutir, frotar) o incluso los lugares donde se producían estos sonidos (por ejemplo: la calle, una iglesia, un salón) ayudaron a desarrollar conceptos musicales y estilos diferentes.  
 

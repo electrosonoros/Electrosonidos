@@ -15,3 +15,5 @@ Como ejemplo, proponemos la escucha de la obra _Música de las esferas_ de la co
 <iframe width="635" height="115" src="https://www.youtube.com/embed/_REVFN7A6_4" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Este curso está dedicado a explorar las formas de creación de electrosonidos, y esperamos que te guste.
+
+[siguiente ->](02_lo_que_necesitas_para_realizar_este_curso.md)

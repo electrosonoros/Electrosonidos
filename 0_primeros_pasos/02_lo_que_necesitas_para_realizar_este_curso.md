@@ -13,9 +13,9 @@ Para realizar este curso recomendamos su visualización a través del navegador 
 También recomendamos la escucha de los ejemplos de audio con auriculares.
 
 <div id="sketch-holder">
-  <script src="/scripts/p5.js"></script>
-  <script src="/scripts/p5.sound.min.js"></script>
-  <script src="/scripts/02_sketch.js"></script>
+  <script src="scripts/p5.js"></script>
+  <script src="scripts/p5.sound.min.js"></script>
+  <script src="scripts/02_sketch.js"></script>
 </div>
 
 [siguiente ->]()

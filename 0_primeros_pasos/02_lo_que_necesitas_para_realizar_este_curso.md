@@ -22,4 +22,4 @@ Para testear que toda la configuración es correcta (y que puedes ver y oir las 
 
 Si no puedes ver u oír dichas notas, revisa la configuración de sonido de tu ordenador. Cuando funcione correctamente, puedes pasar al siguiente punto.
 
-[siguiente ->]()
+[siguiente ->](03_aprender_a_escuchar.md)

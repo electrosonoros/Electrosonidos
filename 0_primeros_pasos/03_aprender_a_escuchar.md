@@ -44,4 +44,4 @@ En ella podemos claramente distinguir los tres tipos de melodías que conforman 
 
 Trata ahora de escuchar una tercera vez, fijándote en los sonidos de una forma más consciente. Éste tipo de escucha analítica es la que pensamos que necesitamos desarrollar para avanzar en el aprendizaje de este y otros estilos de música creada con medios tecnológicos.
 
-[siguiente ->]()
+[siguiente ->](04_apuntes_para_la_docencia.md)

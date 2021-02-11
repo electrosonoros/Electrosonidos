@@ -20,7 +20,7 @@ A lo largo de los diferentes apartados se van a ir dando claves para afinar esta
 
 Os proponemos la pieza _Frontier to Knowledge_ de la compositora [Delia Berbyshire](https://es.wikipedia.org/wiki/Delia_Derbyshire) que aparece en el recopilatorio [Electrosonic](https://wikidelia.net/wiki/Electrosonic) compuesto por Delia junto con Dor Harper y Brian Hodgson en 1972.
 
-<iframe width="508" height="115" src="https://www.youtube.com/watch?v=dQpbAniTx0U" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="508" height="115" src="https://www.youtube.com/embed/dQpbAniTx0U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Proponemos dos escuchas. La primera, es una primera escucha general, para percibir simplemente la longitud de la pieza y su propuesta a nivel sonoro. En esta primera escucha podemos preguntarnos _¿qué nos transmite esta música?_.
 Unas posibles respuestas podrían ser: intriga, miedo, paz, conflicto, etc.

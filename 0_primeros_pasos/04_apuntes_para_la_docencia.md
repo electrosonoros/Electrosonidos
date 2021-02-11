@@ -1,3 +1,11 @@
+---
+layout: default
+title:  "Lo que necesitas para realizar este curso"
+date:   05-02-2021
+dependencies:
+    - p5
+---
+
 [Índice](../README.md)
 
 **AVISO**: Este apartado está dirigido a aportar información para la docencia y está dirigido a personas que están interesadas en utilizar este material como recurso de enseñanza/aprendizaje.
